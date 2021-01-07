@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jmm-specification" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jmm-specification/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-atomic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-atomic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-collections" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-collections/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-disruptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-disruptor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-threadpool" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/juc-threadpool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread-concurrent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread-concurrent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread-syncronized" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread-syncronized/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
